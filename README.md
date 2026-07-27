@@ -19,9 +19,6 @@ Mi trabajo une la visión de negocio con la precisión técnica.
 <img height="180em" src="https://dtidkb6w1s78u.cloudfront.net/api?username=drcarfrei&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
 <img height="180em" src="https://dtidkb6w1s78u.cloudfront.net/api/top-langs/?username=drcarfrei&layout=compact&theme=dracula&hide_border=true" />
 </div>
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=drcarfrei&theme=dracula&hide_border=true" />
-</div>
 
 ---
 
