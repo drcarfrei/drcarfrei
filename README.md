@@ -16,28 +16,28 @@ Como **CTO y Cybersecurity Lead**, mi enfoque principal es transformar requisito
 Mi trabajo une la visión de negocio con la precisión técnica.
 
 <div align="center">
-<img height="180em" src="https://dtidkb6w1s78u.cloudfront.net/api?username=drcarfrei&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-<img height="180em" src="https://dtidkb6w1s78u.cloudfront.net/api/top-langs/?username=drcarfrei&layout=compact&theme=dracula&hide_border=true" />
+  <img height="180em" src="https://dtidkb6w1s78u.cloudfront.net/api?username=drcarfrei&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
+  <img height="180em" src="https://dtidkb6w1s78u.cloudfront.net/api/top-langs/?username=drcarfrei&layout=compact&theme=dracula&hide_border=true" />
 </div>
 
 ---
 
-## Certificaciones Clave
-* **Administracion de empresas con mencion en finanzas**
-* **Ingenieria en sistemas**
+## Certificaciones & Formación Clave
+* **Administración de Empresas con mención en Finanzas**
+* **Ingeniería en Sistemas**
 * **Cybersecurity & Penetration Testing** (Hack The Box / TryHackMe)
 * **Inglés C2 Proficient** (EF SET)
-* **Google Addsense**
-* **Reparacion y mantenimiento de equipos electronicos(Domotica)**
-* **Make your own lab project**
-  
+* **Google Ads**
+* **Reparación y mantenimiento de equipos electrónicos (Domótica)**
+* **Make Your Own Lab Project**
+
 ---
 
 ## Fuera del Teclado
-*   **Artista Digital**: Creo mundos en píxel art, extraño? lo se.
-*   **Músico**: Baterista, vocalista y guitarrista.
-*   **Escritor**: Pronto estara mi primer libro en publicado.
-*   **Filosofía**: *"Construir con rigor, proteger con visión, escalar con propósito"*
+* **Artista Digital:** Creador de mundos y composiciones en *pixel art*.
+* **Músico:** Baterista, vocalista y guitarrista.
+* **Escritor:** Autor independiente (próxima publicación en camino).
+* **Filosofía:** *"Construir con rigor, proteger con visión, escalar con propósito."*
 
 ---
 
@@ -52,6 +52,7 @@ Mi trabajo une la visión de negocio con la precisión técnica.
 </div>
 
 ---
+
 <div align="center">
 
 ### Contacto
