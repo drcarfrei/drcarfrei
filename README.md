@@ -6,7 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-freiermuth/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:carlosfreiermuth@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/593999448906)
-[![Estado](https://img.shields.io/badge/Estado-Abierto_a_Proyectos-3fb950?style=flat-square)](#contacto)
 
 </div>
 
@@ -42,10 +41,9 @@ Como **CTO y Arquitecto de Software**, me especializo en diseñar e implementar 
 ### Actividad & Estadísticas
 
 <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=drcarfrei&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" />
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drcarfrei&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=drcarfrei&theme=github-compact&bg_color=0d1117&color=58a6ff&line=3fb950&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
-
 ---
 
 ### Más Allá de la Pantalla
@@ -63,3 +61,7 @@ Como **CTO y Arquitecto de Software**, me especializo en diseñar e implementar 
 * **LinkedIn:** [carlos-freiermuth](https://www.linkedin.com/in/carlos-freiermuth/)
 * **Correo:** [carlosfreiermuth@gmail.com](mailto:carlosfreiermuth@gmail.com)
 * **Línea Directa:** [+593 99 944 8906](https://wa.me/593999448906)
+
+---
+
+[![Estado](https://img.shields.io/badge/Estado-Abierto_a_Proyectos-3fb950?style=flat-square)](#contacto)
