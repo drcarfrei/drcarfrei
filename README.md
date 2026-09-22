@@ -1,4 +1,5 @@
 ![Carlos Freiermuth Header](./assets/header.svg)
+![Terminal Quotes](./assets/terminal_quotes.svg)
 
 <div align="center">
 
