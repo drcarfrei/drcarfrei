@@ -55,6 +55,8 @@ Como **CTO y Arquitecto de Software**, me especializo en diseñar e implementar 
 * **Línea Directa:** [+593 99 944 8906](https://wa.me/593999448906)
 
 ---
-<div align="center">
-  [![Estado](https://img.shields.io/badge/Estado-Abierto_a_Proyectos-3fb950?style=flat-square)](#contacto)
-</div>
+<p align="center">
+
+[![Estado](https://img.shields.io/badge/Estado-Abierto_a_Proyectos-3fb950?style=flat-square)](#contacto)
+
+</p>
