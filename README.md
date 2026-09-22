@@ -38,14 +38,6 @@ Como **CTO y Arquitecto de Software**, me especializo en diseñar e implementar 
 
 ---
 
-### Actividad & Estadísticas
-
-<div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=drcarfrei&theme=github-compact&bg_color=0d1117&color=58a6ff&line=3fb950&point=ffffff&area=true&hide_border=true" width="100%" />
-</div>
----
-
 ### Más Allá de la Pantalla
 
 * **Pixel Art & Gamedev:** Ilustración digital de 8/16/32-bits, animaciones e implementación de assets en Godot Engine.
@@ -63,5 +55,5 @@ Como **CTO y Arquitecto de Software**, me especializo en diseñar e implementar 
 * **Línea Directa:** [+593 99 944 8906](https://wa.me/593999448906)
 
 ---
-
-[![Estado](https://img.shields.io/badge/Estado-Abierto_a_Proyectos-3fb950?style=flat-square)](#contacto)
+<center>[![Estado](https://img.shields.io/badge/Estado-Abierto_a_Proyectos-3fb950?style=flat-square)](#contacto)
+</center>
