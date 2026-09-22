@@ -23,7 +23,7 @@
   <text x="24" y="21" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#7d8590">&#x2387; main</text>
   <text x="500" y="21" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#3fb950">sec: hardened</text>
   <text x="856" y="21" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#58a6ff">nodes_online</text>
-  <text x="856" y="190" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#7d8590">v2.0.26</text>
+  <text x="856" y="190" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#7d8590">v2.4.26</text>
 
   <!-- Name & Role -->
   <text x="24" y="80" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#e6edf3" letter-spacing="0.5">Carlos Freiermuth</text>
