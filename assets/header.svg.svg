@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 200" width="880" height="200">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="rollout" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#388bfd"/>
+      <stop offset="0.5" stop-color="#2ea44f"/>
+      <stop offset="1" stop-color="#f85149"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="880" height="200" fill="url(#bg)"/>
+
+  <!-- Guide Lines -->
+  <line x1="0" y1="32" x2="880" y2="32" stroke="#21262d" stroke-width="1"/>
+  <line x1="0" y1="172" x2="880" y2="172" stroke="#21262d" stroke-width="1"/>
+  <line x1="520" y1="32" x2="520" y2="172" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Meta Labels -->
+  <text x="24" y="21" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#7d8590">&#x2387; main</text>
+  <text x="500" y="21" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#3fb950">sec: hardened</text>
+  <text x="856" y="21" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#58a6ff">nodes_online</text>
+  <text x="856" y="190" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#7d8590">v2.0.26</text>
+
+  <!-- Name & Role -->
+  <text x="24" y="80" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#e6edf3" letter-spacing="0.5">Carlos Freiermuth</text>
+  <text x="25" y="106" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#58a6ff" font-weight="600" letter-spacing="3">CTO &amp; SOFTWARE ARCHITECT</text>
+  <text x="25" y="132" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#7d8590">DevSecOps &#183; Homelab Multi-Node &#183; OSINT &#183; System Security</text>
+  <text x="25" y="152" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#3fb950">drcarfrei/The_Dev_Arena &#183; drcarfrei/The_Sec_Arena</text>
+
+  <!-- Pipeline Chain: git -> sec-scan -> deploy -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="8" fill="#7d8590" text-anchor="middle">
+    <!-- Git Node -->
+    <circle cx="566" cy="60" r="4" fill="none" stroke="#58a6ff" stroke-width="1.2"/>
+    <circle cx="566" cy="60" r="1.5" fill="#58a6ff"/>
+    <text x="566" y="76">code</text>
+
+    <!-- Sec Scan Node -->
+    <polygon points="616,54 622,60 616,66 610,60" fill="none" stroke="#ff7b72" stroke-width="1.2"/>
+    <text x="616" y="76">audit</text>
+
+    <!-- Deploy Node -->
+    <path d="M661 56 h8 l3 4 -3 4 h-8 z" fill="none" stroke="#3fb950" stroke-width="1.2"/>
+    <text x="666" y="76">deploy</text>
+
+    <!-- Arrow 1: code -> audit -->
+    <line x1="574" y1="60" x2="604" y2="60" stroke="#21262d" stroke-width="1"/>
+    <path d="M604 57 l5 3 -5 3" fill="none" stroke="#58a6ff" stroke-width="1">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" begin="0s" repeatCount="indefinite"/>
+    </path>
+    <circle r="1.8" fill="#58a6ff">
+      <animate attributeName="cx" values="574;604" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="60;60" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.9;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Arrow 2: audit -> deploy -->
+    <line x1="625" y1="60" x2="655" y2="60" stroke="#21262d" stroke-width="1"/>
+    <path d="M655 57 l5 3 -5 3" fill="none" stroke="#3fb950" stroke-width="1">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" begin="1s" repeatCount="indefinite"/>
+    </path>
+    <circle r="1.8" fill="#3fb950">
+      <animate attributeName="cx" values="625;655" dur="2s" begin="1s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="60;60" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.9;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Homelab Node Statuses -->
+  <g>
+    <text x="566" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="8" fill="#7d8590">nodes</text>
+    <g transform="translate(610,92)">
+      <rect x="0" y="0" width="18" height="12" rx="2" fill="none" stroke="#58a6ff" stroke-width="1.2">
+        <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" begin="0s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="26" y="0" width="18" height="12" rx="2" fill="none" stroke="#3fb950" stroke-width="1.2">
+        <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" begin="0.75s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="52" y="0" width="18" height="12" rx="2" fill="none" stroke="#58a6ff" stroke-width="1.2">
+        <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="78" y="0" width="18" height="12" rx="2" fill="none" stroke="#ff7b72" stroke-width="1.2">
+        <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" begin="2.25s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+
+  <!-- Security Hardening Stages -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="8" text-anchor="middle">
+    <text x="566" y="132" fill="#7d8590" text-anchor="start">status</text>
+    <rect x="612" y="122" width="46" height="14" rx="3" fill="none" stroke="#3fb950" stroke-width="1.2">
+      <animate attributeName="stroke-opacity" values="1;0.3;1" dur="5s" repeatCount="indefinite"/>
+    </rect>
+    <text x="635" y="132" fill="#3fb950">
+      <animate attributeName="opacity" values="1;0.3;1" dur="5s" repeatCount="indefinite"/>
+      active
+    </text>
+
+    <line x1="662" y1="129" x2="688" y2="129" stroke="#21262d" stroke-width="1"/>
+    <path d="M688 126 l5 3 -5 3" fill="none" stroke="#58a6ff" stroke-width="1">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="5s" repeatCount="indefinite"/>
+    </path>
+
+    <rect x="697" y="122" width="54" height="14" rx="3" fill="none" stroke="#58a6ff" stroke-width="1.2">
+      <animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="5s" repeatCount="indefinite"/>
+    </rect>
+    <text x="724" y="132" fill="#58a6ff">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="5s" repeatCount="indefinite"/>
+      secured
+    </text>
+  </g>
+
+  <!-- Rollout / Progress Bar -->
+  <g>
+    <text x="566" y="160" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="8" fill="#7d8590" text-anchor="start">sync</text>
+    <rect x="612" y="153" width="244" height="6" rx="3" fill="none" stroke="#21262d" stroke-width="1"/>
+    <rect x="613" y="154" height="4" rx="2" fill="url(#rollout)" width="0">
+      <animate attributeName="width" values="0;242;242;0" keyTimes="0;0.7;0.95;1" dur="5s" repeatCount="indefinite"/>
+    </rect>
+    <text x="856" y="150" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="8" fill="#3fb950">100%
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="5s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- Blinking Cursor -->
+  <rect x="830" y="180" width="7" height="12" fill="#58a6ff">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
