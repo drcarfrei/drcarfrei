@@ -1,13 +1,6 @@
 ![Carlos Freiermuth Header](./assets/header.svg)
 ![Terminal Quotes](./assets/terminal_quotes.svg)
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-freiermuth/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:carlosfreiermuth@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/593999448906)
-
-</div>
 
 Como **CTO y Arquitecto de Software**, me especializo en diseñar e implementar arquitecturas de software resilientes, auditar seguridad ofensiva e integrar entornos auto-hospedados (Homelab). Mi enfoque abarca desde la conceptualización de sistemas distribuidos hasta el hardening de infraestructura crítica.
 
@@ -50,9 +43,19 @@ Como **CTO y Arquitecto de Software**, me especializo en diseñar e implementar 
 
 ¿Tienes una alianza estratégica, auditoría de seguridad o proyecto de arquitectura de software en mente?
 
-* **LinkedIn:** [carlos-freiermuth](https://www.linkedin.com/in/carlos-freiermuth/)
-* **Correo:** [carlosfreiermuth@gmail.com](mailto:carlosfreiermuth@gmail.com)
-* **Línea Directa:** [+593 99 944 8906](https://wa.me/593999448906)
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlos-freiermuth/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Carlos Freiermuth" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:carlosfreiermuth@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Carlos Freiermuth" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/593999448906" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Carlos Freiermuth" />
+  </a>
+</p>
 
 ---
 <p align="center">
