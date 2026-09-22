@@ -56,7 +56,7 @@ Como **CTO y Arquitecto de Software**, me especializo en diseñar e implementar 
 
 ---
 <p align="center">
-
-[![Estado](https://img.shields.io/badge/Estado-Abierto_a_Proyectos-3fb950?style=flat-square)](#contacto)
-
+  <a href="#contacto">
+    <img src="https://img.shields.io/badge/Estado-Abierto_a_Proyectos-3fb950?style=flat-square" alt="Estado" />
+  </a>
 </p>
